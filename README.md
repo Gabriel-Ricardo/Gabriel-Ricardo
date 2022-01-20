@@ -9,9 +9,9 @@ I am passionate about the constant challenge that technology brings me. I study 
  ## ⚙️ &nbsp;GitHub Analytics
  
 <div>
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Ricardo&show_icons=true&theme=github_dark&border_color=c9d1d9&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Ricardo&show_icons=true&theme=github_dark&border_color=bd93f9&include_all_commits=true&count_private=true"/>
   
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Ricardo&layout=compact&show_icons=true&theme=github_dark&border_color=c9d1d9&langs_count=4"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Ricardo&layout=compact&show_icons=true&theme=github_dark&border_color=bd93f9&langs_count=4"/>
 </div>
 
 
