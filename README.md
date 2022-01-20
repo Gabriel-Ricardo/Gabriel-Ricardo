@@ -10,8 +10,8 @@ I am passionate about the constant challenge that technology brings me. I study 
  
 <div align="center">
   <a href="https://github.com/Gabriel-Ricardo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Ricardo&show_icons=true&theme=github_dark&border_color=44475a&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Ricardo&layout=compact&show_icons=true&theme=github_dark&border_color=44475a"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Ricardo&show_icons=true&theme=github_dark&border_color=44475a&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Ricardo&layout=compact&show_icons=true&theme=github_dark&border_color=44475a"/>
 </div>
 
 ## 🛠 &nbsp;Tech Stack
