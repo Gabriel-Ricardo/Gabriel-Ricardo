@@ -17,7 +17,7 @@ I am passionate about the constant challenge that technology brings me. I study 
 
 ## 🛠 &nbsp;Tech Stack
 
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
@@ -28,7 +28,7 @@ I am passionate about the constant challenge that technology brings me. I study 
 
 ## 📱 &nbsp;Social Links
 
-<div align="center">
+<div>
 
  <a href="https://www.instagram.com/gabriellldev/" target="_blank">
    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
