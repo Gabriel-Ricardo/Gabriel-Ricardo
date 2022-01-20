@@ -28,18 +28,22 @@ I am passionate about the constant challenge that technology brings me. I study 
 
 ## 📱 &nbsp;Social Links
 
-<a href="https://www.instagram.com/gabriellldev/" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-</a>
+<div align="center">
 
-<a href="https://telegram.me/gabriellldev">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-</a>
+ <a href="https://www.instagram.com/gabriellldev/" target="_blank">
+   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+ </a>
 
-<a href = "mailto:gabrielricardodev@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-</a>
+ <a href="https://telegram.me/gabriellldev">
+   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+ </a>
 
-<a href="https://www.linkedin.com/in/gabriel-ricardo-48b2a122b/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</a> 
+ <a href = "mailto:gabrielricardodev@gmail.com">
+   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+ </a>
+
+ <a href="https://www.linkedin.com/in/gabriel-ricardo-48b2a122b/" target="_blank">
+   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+ </a> 
+
+</div>
