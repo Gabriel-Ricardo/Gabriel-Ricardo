@@ -8,7 +8,7 @@ I am passionate about the constant challenge that technology brings me. I study 
  
  ## ⚙️ &nbsp;GitHub Analytics
 
-<div style="display: inline_block" align="center">
+<div style="display: inline_block">
   <a href="https://github.com/Gabriel-Ricardo">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Ricardo&show_icons=true&theme=github_dark&border_color=44475a"/>
   </a>
