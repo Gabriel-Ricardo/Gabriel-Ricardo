@@ -5,6 +5,12 @@ I am passionate about the constant challenge that technology brings me. I study 
 - 🔥 I'm graduating in Systems Analysis and Development
 - 👨‍💻 I’m currently learning Javascript
 - 💬 Ask me about **JavaScript, HTML and CSS**
+
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+</div>
  
  ## ⚙️ &nbsp;GitHub Analytics
  
