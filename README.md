@@ -6,16 +6,9 @@ I am passionate about the constant challenge that technology brings me. I study 
 - 👨‍💻 I’m currently learning Javascript
 - 💬 Ask me about **JavaScript, HTML and CSS**
 
-<div align="center">
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
-</div>
- 
  ## ⚙️ &nbsp;GitHub Analytics
  
- <div align="center">
-  <a href="https://github.com/rafaballerini">
+ <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Ricardo&show_icons=true&theme=github_dark&border_color=bd93f9&include_all_commits=true&count_private=true&icon_color=bd93f9&title_color=bd93f9"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Ricardo&layout=compact&show_icons=true&theme=github_dark&border_color=bd93f9&langs_count=7&icon_color=bd93f9&title_color=bd93f9"/>
 </div>
