@@ -1,4 +1,4 @@
-<h1>Hi, I'm Gabriel Ricardo <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
+# Hi, I'm Gabriel Ricardo <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
 I am passionate about the constant challenge that technology brings me. I study the main front-end technologies, focusing on the Javascript stack.
 
