@@ -13,7 +13,7 @@ I'm passionate about the constant challenge that technology brings me. I study t
   
 <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Ricardo&layout=compact&show_icons=true&theme=github_dark&border_color=bd93f9&langs_count=4&icon_color=bd93f9&title_color=bd93f9"/>
  
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Gabriel-Ricardo)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Gabriel-Ricardo&bg_color=0D1117&color=A17ED5&line=A17ED5)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 </div>
 
