@@ -10,9 +10,9 @@ I'm passionate about the constant challenge that technology brings me. I study t
  
 <div>
 
- <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Ricardo&show_icons=true&theme=github_dark&border_color=bd93f9&include_all_commits=true&count_private=true&icon_color=bd93f9&title_color=bd93f9"/>
+ <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Ricardo&show_icons=true&theme=github_dark&border_color=bd93f9&include_all_commits=true&count_private=true&icon_color=bd93f9&title_color=bd93f9"/>
   
-<img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Ricardo&layout=compact&show_icons=true&theme=github_dark&border_color=bd93f9&langs_count=4&icon_color=bd93f9&title_color=bd93f9"/>
+<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Ricardo&layout=compact&show_icons=true&theme=github_dark&border_color=bd93f9&langs_count=4&icon_color=bd93f9&title_color=bd93f9"/>
  
 </div>
 
