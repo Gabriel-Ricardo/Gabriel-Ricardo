@@ -18,7 +18,7 @@ I'm passionate about the constant challenge that technology brings me. I study t
 
 <div>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=Gabriel-Ricardo&bg_color=0D1117&color=A17ED5&line=A17ED5&point=f8f8f2">
+<img height="180em" width="420em" src="https://activity-graph.herokuapp.com/graph?username=Gabriel-Ricardo&bg_color=0D1117&color=A17ED5&line=A17ED5&point=f8f8f2">
  
 </div>
 
